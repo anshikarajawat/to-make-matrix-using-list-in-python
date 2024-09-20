@@ -1,0 +1,19 @@
+def makematrix():
+  matrix= (1,3,4,2,9)
+  for ele in matrix:
+     print(ele,end="  ")
+
+makematrix()
+print(end="\n")
+makematrix()
+print(end="\n")
+makematrix()
+print(end="\n")
+makematrix()
+
+output:
+1  3  4  2  9  
+1  3  4  2  9  
+1  3  4  2  9  
+1  3  4  2  9  
+
